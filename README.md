@@ -79,5 +79,19 @@ Portugal bank marketing campaigns results
 
 # Model Results
 
+![Bank_Marketing_Campaign_Results](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/91dfa23d-6103-471f-8852-bd61d84ed16b)
+![XGBoost_Conf](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/a197f238-268f-46af-ae18-e18119e006cd)
+![LightGBM_Conf](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/13f39468-89be-430f-ab50-61b52d4ffe77)
+![cLASS_rEPORT](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/273e8d20-93c7-4491-b68e-12cbc80447d0)
+![ROC](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/00f44e3d-3651-4e35-9367-a406c1c465c7)
+
+**The XGBoost and LightGBM models exhibit very similar performance.**
+
+1. Both the XGBoost and LightGBM models yield an average F1 score of 0.70.. .
+
+2. Tuning LightGBM hyperparameters takes 0.56 minutes, whereas tuning XGBoost hyperparameters takes 19.04 minutes.
+
+**Result : Since both models exhibit very similar performance, we will proceed with the LightGBM model due to its faster training speed.**
+
 
 # Model Interpretation
