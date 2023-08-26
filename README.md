@@ -95,3 +95,9 @@ Portugal bank marketing campaigns results
 
 
 # Model Interpretation
+The force plot indicates that when macroeconomic indicators such as consumer price index (cons.price.idx) and the number of employed individuals (nr.employed) are high, the log odds of depositing money increase. Additionally, if a customer is single, they are less likely to deposit money.
+![SHAP_Force](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/84129729-16f7-4a24-9036-f1cc41205d93)
+
+
+![shap_SUMMARY](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/e18305ea-7c6b-4c62-b846-a497f9f4364b)
+
