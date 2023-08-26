@@ -1,6 +1,7 @@
-# Bank_Marketing_Campaign_Prediction
+# Bank Marketing Campaign Prediction
 
 ![dataset-cover](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/7d34113b-68e7-406d-87b2-e17dc4fd4c53)
+
 
 It is a dataset that describing Portugal bank marketing campaigns results.
 Conducted campaigns were based mostly on direct phone calls, offering bank client to place a term deposit.
