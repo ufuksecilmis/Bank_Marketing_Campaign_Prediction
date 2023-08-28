@@ -9,7 +9,7 @@ If after all marking afforts client had agreed to place deposit - target variabl
 
 # Steps
 
-1.Conduct Exploratory Data Analysis using pandas-profiling.
+1.Conduct Exploratory Data Analysis using pandas-profiling and Tableau.
 
 2.Data preprocessing may not be necessary, as both the XGBoost and LightGBM algorithms can handle categorical and missing data.
 
