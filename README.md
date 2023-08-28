@@ -76,6 +76,20 @@ Portugal bank marketing campaigns results
 
     21 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
+# Explanatory Data Analysis using Tableau
+
+![Target-Variable-Pie Chart](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/e95fd774-d381-465a-b019-d0b76d6b65d0)
+
+
+**This is an imbalanced dataset.**
+
+
+![eda_1](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/030984ad-26e9-4f0f-89e0-f8f1946c5654)
+![eda_2](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/1cdebda5-0c4a-488c-afad-1887a3b1af91)
+![eda_3](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/30dd6cf1-7930-451e-80ec-5dc6b3b00754)
+![eda_4](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/36c0af4e-eabe-428b-b18e-432151ff77a3)
+![eda_5](https://github.com/ufuksecilmis/Bank_Marketing_Campaign_Prediction/assets/51096261/ef4be4ba-14a6-48fd-b340-a36404c6e3ce)
+
 
 # Model Results
 
