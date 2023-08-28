@@ -19,7 +19,7 @@ If after all marking afforts client had agreed to place deposit - target variabl
 
 4.Select the Best Model through Cross-Validation and ROC-AUC analysis.
 
-4.Utilize SHAP for Model Interpretation.
+5.Utilize SHAP for Model Interpretation.
 
 # Dataset
 Portugal bank marketing campaigns results
